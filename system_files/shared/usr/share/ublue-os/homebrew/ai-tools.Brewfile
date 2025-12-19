@@ -1,8 +1,6 @@
 brew "aichat"
 brew "block-goose-cli"
 cask "claude-code"
-tap "gptscript-ai/tap"
-brew "gptscript-ai/tap/clio"
 tap "charmbracelet/tap"
 brew "charmbracelet/tap/crush"
 cask "copilot-cli"
