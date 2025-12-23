@@ -72,3 +72,7 @@ Users can install these bundles using the `ujust bbrew` command, which will prom
 ```bash
 just build
 ```
+
+## Contributor Metrics
+
+![Alt](https://repobeats.axiom.co/api/embed/45dffc43196101fdeb340b462af3f7babe39eee3.svg "Repobeats analytics image")
